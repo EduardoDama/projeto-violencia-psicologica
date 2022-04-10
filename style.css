@@ -13,7 +13,7 @@ p{
     text-align: justify;
 }
 header{
-    background-image: linear-gradient(to top, #231B40, #151426);
+    background-image: linear-gradient(to top, #231b40d5, #151426);
     color: white;
     box-shadow: 2px 3px 9px rgba(0, 0, 0, 0.322);
 }
